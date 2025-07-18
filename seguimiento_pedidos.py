@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1qX7SSV2U2ZgxJme9sQUTbvra202ArJFj
 """
 
-!pip install streamlit
 
 # archivo: seguimiento_pedidos.py
 import streamlit as st
